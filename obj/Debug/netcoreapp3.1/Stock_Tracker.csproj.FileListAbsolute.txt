@@ -1,0 +1,13 @@
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.exe
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.deps.json
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.runtimeconfig.json
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.runtimeconfig.dev.json
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.dll
+C:\Users\ginog\Documents\C#\Stock_Tracker\bin\Debug\netcoreapp3.1\Stock_Tracker.pdb
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.csprojAssemblyReference.cache
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.AssemblyInfoInputs.cache
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.AssemblyInfo.cs
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.dll
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.pdb
+C:\Users\ginog\Documents\C#\Stock_Tracker\obj\Debug\netcoreapp3.1\Stock_Tracker.genruntimeconfig.cache
